@@ -6,7 +6,7 @@ This app builds and serves an interactive map and chart of climate change both g
 Assumptions:
 ------------
 
-The app relies on several map layers hosted in the New Scientist account on Mapbox. These layers are hard-coded into the app and shouldn't need to be changed. The actual hosted layers can be edited or updated on Mapbox, so long as the names aren't changed, and everything will still work.
+The app relies on several map layers hosted in the New Scientist account on Mapbox. 
 
 Building:
 ---------
