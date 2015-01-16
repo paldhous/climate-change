@@ -24494,29 +24494,29 @@ var LayerSet = Backbone.Collection.extend({
 
 var layers = new LayerSet([
     {
-        id: "newscientist26102012.1994-2013",
-        name: "1994 - 2013"
+        id: "newscientist26102012.1995-2014",
+        name: "1995 - 2014"
     },
     
     {
-        id: "newscientist26102012.1974-1993",
-        name: "1974 - 1993"
+        id: "newscientist26102012.1975-1994",
+        name: "1975 - 1994"
     },
     {
-        id: "newscientist26102012.1954-1973",
-        name: "1955 - 1973"
+        id: "newscientist26102012.1955-1974",
+        name: "1955 - 1974"
     },
     {
-        id: "newscientist26102012.1934-1953",
-        name: "1934 - 1953"
+        id: "newscientist26102012.1935-1954",
+        name: "1935 - 1954"
     },
     {
         id: "newscientist26102012.1914-1933", 
-        name: "1914 - 1933"
+        name: "1915 - 1934"
     },
     {
         id: "newscientist26102012.1894-1913",
-        name: "1894 - 1913"
+        name: "1895 - 1914"
     }
 ]);
 
