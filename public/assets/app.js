@@ -24511,11 +24511,11 @@ var layers = new LayerSet([
         name: "1935 - 1954"
     },
     {
-        id: "newscientist26102012.1914-1933", 
+        id: "newscientist26102012.1915-1934", 
         name: "1915 - 1934"
     },
     {
-        id: "newscientist26102012.1894-1913",
+        id: "newscientist26102012.1895-1914",
         name: "1895 - 1914"
     }
 ]);
